@@ -9,3 +9,8 @@ while(a!=1):
         a=((a*3)+1)
         b.append(str(a))
 print(''.join(b))
+
+
+# CodeBy:RahulMahajan
+# CF:anonymous3107
+# CC:anonymous0201
