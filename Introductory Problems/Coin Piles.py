@@ -13,3 +13,9 @@ for _ in range(int(input())):
             print('YES')
         else:
             print('NO')
+
+            
+# CodeBy:RahulMahajan
+# CF:anonymous3107
+# CC:anonymous0201
+# CSES:rahulmahajan            
